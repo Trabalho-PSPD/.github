@@ -8,6 +8,7 @@ Este projeto foi desenvolvido como parte da disciplina **Programação para Sist
 
 ## Integrantes
 
+<div align="center">
 <table>
 	<tr>
 		<td align="center">
@@ -42,3 +43,4 @@ Este projeto foi desenvolvido como parte da disciplina **Programação para Sist
 		</td>
 	</tr>
 </table>
+</div>
