@@ -8,15 +8,4 @@ Este projeto foi desenvolvido como parte da disciplina **Programação para Sist
 
 ## Integrantes
 
-<div align="center">
-<table>
-	<tr>
-		<td align="center">
-			<a href="https://github.com/lcsgborges">
-				<img src="https://github.com/lcsgborges.png?size=120" width="96" alt="lcsgborges" /><br />
-				Lucas Borges
-			</a>
-		</td>
-	</tr>
-</table>
-</div>
+> [Lucas Guimarães Borges (222015159)](https://github.com/lcsgborges)
