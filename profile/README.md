@@ -12,33 +12,9 @@ Este projeto foi desenvolvido como parte da disciplina **Programação para Sist
 <table>
 	<tr>
 		<td align="center">
-			<a href="https://github.com/GG555-13">
-				<img src="https://github.com/GG555-13.png?size=120" width="96" alt="usuario1" /><br />
-				Guilherme Mendes
-			</a>
-		</td>
-		<td align="center">
-			<a href="https://github.com/Laisczt">
-				<img src="https://github.com/Laisczt.png?size=120" width="96" alt="Laisczt" /><br />
-				Laís Paes
-			</a>
-		</td>
-		<td align="center">
 			<a href="https://github.com/lcsgborges">
 				<img src="https://github.com/lcsgborges.png?size=120" width="96" alt="lcsgborges" /><br />
 				Lucas Borges
-			</a>
-		</td>
-		<td align="center">
-			<a href="https://github.com/OrlandiRodrigo">
-				<img src="https://github.com/OrlandiRodrigo.png?size=120" width="96" alt="OrlandiRodrigo" /><br />
-				Rodrigo Orlandi
-			</a>
-		</td>
-		<td align="center">
-			<a href="https://github.com/RA-Salles">
-				<img src="https://github.com/RA-Salles.png?size=120" width="96" alt="RA-Salles" /><br />
-				Ryan Salles
 			</a>
 		</td>
 	</tr>
